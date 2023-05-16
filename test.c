@@ -4,11 +4,14 @@ int main ()
 {
     int i = 3;
     int a = 4;
-    int c
+    int c;
 
-    c= i+a;
+    if(a = 4)
+    {
+        printf("you are correct");
+    }
 
-    printf("%d", c);
+    
 
     return (0);
 }
